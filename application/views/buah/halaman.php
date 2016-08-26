@@ -89,7 +89,7 @@
 			<li class="dropdown">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes"><i class="icon-random icon-white"> </i> Stok <span class="caret"></span></a>
               <ul class="dropdown-menu" aria-labelledby="themes">
-                <li><a tabindex="-1" href="<?php echo base_url(); ?>index.php/admin/surat_masuk">Stok Gudang</a></li>
+                <li><a tabindex="-1" href="<?php echo base_url(); ?>index.php/admin/stok_gudang">Stok Gudang</a></li>
                 <li><a tabindex="-1" href="<?php echo base_url(); ?>index.php/admin/surat_keluar">Stok Pasar</a></li>
 			  </ul>
             </li>
